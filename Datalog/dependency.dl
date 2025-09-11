@@ -1,0 +1,81 @@
+/*
+* This is a simple example of tokenizing words with their part of speech and then identifying a dependency relationship in a sentence.
+* Not all cases are captured as English is much more complicated than this but there is some basic functionality here.
+*
+* This program may be better served using a language like Prolog but i was experimenting
+*/
+
+/* Tokenization */
+
+// Load tokenized data
+.decl token(paragraph:symbol, sentence:symbol, word:symbol, position:number, partOfSpeech:symbol)
+.input token
+
+/* Dependency Relationships */
+
+// Dependency tagging
+.decl dependency(sentence:symbol, headWord:symbol, dependentWord:symbol, relation:symbol)
+.output dependency
+
+/*
+* Define chains of modifiers leading to a headword
+*
+* In order to assign modifiers to their associated words we need to make sure
+* they are assigned only once. For this we create a chain of modifiers since it
+* is impossible for a modifier to not be directly linked to it's head word. If this
+* link is broken at any point this must mean the head word we are trying to link it
+* to is in another part of the sentence entirely.
+*/
+.decl modifierChain(sentence:symbol, headWord:symbol, headPos:number, modifierWord:symbol, modifierPos:number, chainLength:number)
+
+// Declare valid modifiers for an JJ/DT chain
+.decl isValidModifier(modifier:symbol)
+isValidModifier("JJ").
+isValidModifier("DT").
+isValidModifier("PDT").
+isValidModifier("JJR").
+isValidModifier("JJS").
+isValidModifier("RB").
+isValidModifier("RBR").
+isValidModifier("RBS").
+isValidModifier("PRP$").
+
+// Base case: Directly linked modifier
+modifierChain(Sentence, HeadWord, HeadPos, ModifierWord, ModifierPos, 1) :-
+    token(_, Sentence, HeadWord, HeadPos, _),
+    token(_, Sentence, ModifierWord, ModifierPos, ModifierTag), // Modifier exists
+    isValidModifier(ModifierTag), // Valid modifier types
+    ModifierPos < HeadPos, // Modifier precedes head
+    HeadPos - ModifierPos = 1. // Directly linked position.
+
+// Recursive case: Extend chain through linked modifiers, with constraint
+modifierChain(Sentence, HeadWord, HeadPos, ModifierWord, ModifierPos, ChainLength) :-
+    modifierChain(Sentence, HeadWord, HeadPos, _, IntermediatePos, PrevLength),
+    token(_, Sentence, ModifierWord, ModifierPos, ModifierTag),
+    isValidModifier(ModifierTag), // Valid modifier types
+    ModifierPos < IntermediatePos,
+    IntermediatePos - ModifierPos = 1,
+    ChainLength = PrevLength + 1, // Increment chain length
+    ChainLength <= 5. // Enforce maximum chain length
+
+// Dependency Rules
+
+// Rule: Determiner (only before the noun)
+dependency(Sentence, Noun, Det, "determiner modifier") :-
+    modifierChain(Sentence, Noun, PosH, Det, PosD, _), // chain before
+    token(_, Sentence, Noun, PosH, "NN"),
+    token(_, Sentence, Det, PosD, "DT"),
+    PosD < PosH. // Dependent precedes head
+
+// Rule: Adjectival Modifier (before the noun)
+dependency(Sentence, Noun, Adj, "adjectival modifier") :-
+    modifierChain(Sentence, Noun, PosH, Adj, PosD, _), // chain before
+    token(_, Sentence, Noun, PosH, "NN"),
+    token(_, Sentence, Adj, PosD, "JJ"),
+    PosD < PosH. // Dependent precedes head
+// Rule: Adjectival Modifier (after the noun)
+dependency(Sentence, Noun, Adj, "adjectival modifier") :-
+    modifierChain(Sentence, Adj, PosD, Noun, PosH, _), // chain after
+    token(_, Sentence, Noun, PosH, "NN"),
+    token(_, Sentence, Adj, PosD, "JJ"),
+    PosD > PosH. // Dependent follows head
