@@ -1,3 +1,5 @@
-This is a portfolio that contains a small sample of some of the programs that I have worked with.
-The majority of experience has been with Java and Python but I have worked in many languages. Each folder is labeled with what
-language examples are contained within it.
+This a repository of simple coding examples that I have worked on in the past.
+
+Primary experience and largest projects have been completed in Java. Python is the second most experienced language and then
+many other languages i have varying degrees of exposure and elementary proficiency. I am comfortable learning new languages
+and am always seeking what languages would be best in certain applications.

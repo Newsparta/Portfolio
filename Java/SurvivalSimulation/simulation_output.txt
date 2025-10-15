@@ -1,0 +1,705 @@
+Running in SOCIETY mode ...
+Day 1: No disaster
+
+Doctor		- Health: 10, Food: 9, Shelter: 10
+Farmer		- Health: 10, Food: 12, Shelter: 10
+Carpenter	- Health: 10, Food: 12, Shelter: 10
+Hunter		- Health: 10, Food: 12, Shelter: 10
+
+4 People survived.
+
+Day 2: Hurricane
+
+Doctor		- Health: 10, Food: 11, Shelter: 7
+Farmer		- Health: 10, Food: 11, Shelter: 7
+Carpenter	- Health: 10, Food: 11, Shelter: 7
+Hunter		- Health: 10, Food: 11, Shelter: 7
+
+4 People survived.
+
+Day 3: Hurricane
+
+Doctor		- Health: 10, Food: 10, Shelter: 5
+Farmer		- Health: 10, Food: 10, Shelter: 5
+Carpenter	- Health: 10, Food: 10, Shelter: 5
+Hunter		- Health: 10, Food: 10, Shelter: 5
+
+4 People survived.
+
+Day 4: Wolves
+
+Doctor		- Health: 9, Food: 9, Shelter: 6
+Farmer		- Health: 9, Food: 12, Shelter: 6
+Carpenter	- Health: 9, Food: 12, Shelter: 6
+Hunter		- Health: 8, Food: 12, Shelter: 6
+
+4 People survived.
+
+Day 5: Disease
+
+Doctor		- Health: 6, Food: 11, Shelter: 7
+Farmer		- Health: 7, Food: 11, Shelter: 7
+Carpenter	- Health: 8, Food: 11, Shelter: 7
+Hunter		- Health: 8, Food: 11, Shelter: 7
+
+4 People survived.
+
+Day 6: Disease
+
+Doctor		- Health: 6, Food: 10, Shelter: 8
+Farmer		- Health: 7, Food: 10, Shelter: 8
+Carpenter	- Health: 8, Food: 10, Shelter: 8
+Hunter		- Health: 8, Food: 10, Shelter: 8
+
+4 People survived.
+
+Day 7: Hurricane
+
+Doctor		- Health: 8, Food: 9, Shelter: 6
+Farmer		- Health: 9, Food: 12, Shelter: 6
+Carpenter	- Health: 10, Food: 12, Shelter: 6
+Hunter		- Health: 10, Food: 12, Shelter: 6
+
+4 People survived.
+
+Day 8: No disaster
+
+Doctor		- Health: 10, Food: 11, Shelter: 7
+Farmer		- Health: 10, Food: 11, Shelter: 7
+Carpenter	- Health: 10, Food: 11, Shelter: 7
+Hunter		- Health: 10, Food: 11, Shelter: 7
+
+4 People survived.
+
+Day 9: Famine
+
+Doctor		- Health: 10, Food: 8, Shelter: 8
+Farmer		- Health: 10, Food: 8, Shelter: 8
+Carpenter	- Health: 10, Food: 8, Shelter: 8
+Hunter		- Health: 10, Food: 8, Shelter: 8
+
+4 People survived.
+
+Day 10: Wolves
+
+Doctor		- Health: 9, Food: 7, Shelter: 9
+Farmer		- Health: 9, Food: 10, Shelter: 9
+Carpenter	- Health: 9, Food: 10, Shelter: 9
+Hunter		- Health: 8, Food: 10, Shelter: 9
+
+4 People survived.
+
+Day 11: Famine
+
+Doctor		- Health: 8, Food: 7, Shelter: 10
+Farmer		- Health: 9, Food: 7, Shelter: 10
+Carpenter	- Health: 10, Food: 7, Shelter: 10
+Hunter		- Health: 10, Food: 7, Shelter: 10
+
+4 People survived.
+
+Day 12: Hurricane
+
+Doctor		- Health: 10, Food: 6, Shelter: 7
+Farmer		- Health: 10, Food: 6, Shelter: 7
+Carpenter	- Health: 10, Food: 6, Shelter: 7
+Hunter		- Health: 10, Food: 6, Shelter: 7
+
+4 People survived.
+
+Day 13: No disaster
+
+Doctor		- Health: 10, Food: 5, Shelter: 8
+Farmer		- Health: 10, Food: 8, Shelter: 8
+Carpenter	- Health: 10, Food: 8, Shelter: 8
+Hunter		- Health: 10, Food: 8, Shelter: 8
+
+4 People survived.
+
+Day 14: No disaster
+
+Doctor		- Health: 10, Food: 7, Shelter: 9
+Farmer		- Health: 10, Food: 7, Shelter: 9
+Carpenter	- Health: 10, Food: 7, Shelter: 9
+Hunter		- Health: 10, Food: 7, Shelter: 9
+
+4 People survived.
+
+Day 15: Hurricane
+
+Doctor		- Health: 10, Food: 6, Shelter: 7
+Farmer		- Health: 10, Food: 6, Shelter: 7
+Carpenter	- Health: 10, Food: 6, Shelter: 7
+Hunter		- Health: 10, Food: 8, Shelter: 7
+
+4 People survived.
+
+Day 16: Famine
+
+Doctor		- Health: 10, Food: 5, Shelter: 8
+Farmer		- Health: 10, Food: 8, Shelter: 8
+Carpenter	- Health: 10, Food: 8, Shelter: 8
+Hunter		- Health: 10, Food: 8, Shelter: 8
+
+4 People survived.
+
+Day 17: Wolves
+
+Doctor		- Health: 9, Food: 7, Shelter: 9
+Farmer		- Health: 9, Food: 7, Shelter: 9
+Carpenter	- Health: 9, Food: 7, Shelter: 9
+Hunter		- Health: 8, Food: 7, Shelter: 9
+
+4 People survived.
+
+Day 18: Wolves
+
+Doctor		- Health: 7, Food: 6, Shelter: 10
+Farmer		- Health: 7, Food: 6, Shelter: 10
+Carpenter	- Health: 7, Food: 6, Shelter: 10
+Hunter		- Health: 6, Food: 6, Shelter: 10
+
+4 People survived.
+
+Day 19: Wolves
+
+Doctor		- Health: 5, Food: 5, Shelter: 10
+Farmer		- Health: 5, Food: 8, Shelter: 10
+Carpenter	- Health: 5, Food: 8, Shelter: 10
+Hunter		- Health: 4, Food: 10, Shelter: 10
+
+4 People survived.
+
+Day 20: Famine
+
+Doctor		- Health: 4, Food: 7, Shelter: 10
+Farmer		- Health: 5, Food: 7, Shelter: 10
+Carpenter	- Health: 6, Food: 7, Shelter: 10
+Hunter		- Health: 6, Food: 9, Shelter: 10
+
+4 People survived.
+
+Day 21: Famine
+
+Doctor		- Health: 6, Food: 6, Shelter: 10
+Farmer		- Health: 7, Food: 6, Shelter: 10
+Carpenter	- Health: 8, Food: 6, Shelter: 10
+Hunter		- Health: 8, Food: 8, Shelter: 10
+
+4 People survived.
+
+Day 22: Hurricane
+
+Doctor		- Health: 8, Food: 7, Shelter: 7
+Farmer		- Health: 9, Food: 10, Shelter: 7
+Carpenter	- Health: 10, Food: 10, Shelter: 7
+Hunter		- Health: 10, Food: 12, Shelter: 7
+
+4 People survived.
+
+Day 23: Disease
+
+Doctor		- Health: 8, Food: 11, Shelter: 8
+Farmer		- Health: 8, Food: 11, Shelter: 8
+Carpenter	- Health: 8, Food: 11, Shelter: 8
+Hunter		- Health: 8, Food: 13, Shelter: 8
+
+4 People survived.
+
+Day 24: No disaster
+
+Doctor		- Health: 10, Food: 12, Shelter: 9
+Farmer		- Health: 10, Food: 12, Shelter: 9
+Carpenter	- Health: 10, Food: 12, Shelter: 9
+Hunter		- Health: 10, Food: 14, Shelter: 9
+
+4 People survived.
+
+Day 25: Hurricane
+
+Doctor		- Health: 10, Food: 13, Shelter: 7
+Farmer		- Health: 10, Food: 16, Shelter: 7
+Carpenter	- Health: 10, Food: 16, Shelter: 7
+Hunter		- Health: 10, Food: 16, Shelter: 7
+
+4 People survived.
+
+Day 26: Disease
+
+Doctor		- Health: 8, Food: 15, Shelter: 8
+Farmer		- Health: 8, Food: 15, Shelter: 8
+Carpenter	- Health: 8, Food: 15, Shelter: 8
+Hunter		- Health: 8, Food: 15, Shelter: 8
+
+4 People survived.
+
+Day 27: Hurricane
+
+Doctor		- Health: 10, Food: 14, Shelter: 6
+Farmer		- Health: 10, Food: 14, Shelter: 6
+Carpenter	- Health: 10, Food: 14, Shelter: 6
+Hunter		- Health: 10, Food: 16, Shelter: 6
+
+4 People survived.
+
+Day 28: No disaster
+
+Doctor		- Health: 10, Food: 15, Shelter: 7
+Farmer		- Health: 10, Food: 18, Shelter: 7
+Carpenter	- Health: 10, Food: 18, Shelter: 7
+Hunter		- Health: 10, Food: 18, Shelter: 7
+
+4 People survived.
+
+Day 29: Disease
+
+Doctor		- Health: 8, Food: 17, Shelter: 8
+Farmer		- Health: 8, Food: 17, Shelter: 8
+Carpenter	- Health: 8, Food: 17, Shelter: 8
+Hunter		- Health: 8, Food: 17, Shelter: 8
+
+4 People survived.
+
+Day 30: No disaster
+
+Doctor		- Health: 10, Food: 16, Shelter: 9
+Farmer		- Health: 10, Food: 16, Shelter: 9
+Carpenter	- Health: 10, Food: 16, Shelter: 9
+Hunter		- Health: 10, Food: 16, Shelter: 9
+
+4 People survived.
+
+Day 31: Wolves
+
+Doctor		- Health: 9, Food: 15, Shelter: 10
+Farmer		- Health: 9, Food: 18, Shelter: 10
+Carpenter	- Health: 9, Food: 18, Shelter: 10
+Hunter		- Health: 8, Food: 18, Shelter: 10
+
+4 People survived.
+
+Day 32: Wolves
+
+Doctor		- Health: 7, Food: 17, Shelter: 10
+Farmer		- Health: 7, Food: 17, Shelter: 10
+Carpenter	- Health: 7, Food: 17, Shelter: 10
+Hunter		- Health: 6, Food: 17, Shelter: 10
+
+4 People survived.
+
+Day 33: Wolves
+
+Doctor		- Health: 5, Food: 16, Shelter: 10
+Farmer		- Health: 5, Food: 16, Shelter: 10
+Carpenter	- Health: 5, Food: 16, Shelter: 10
+Hunter		- Health: 4, Food: 16, Shelter: 10
+
+4 People survived.
+
+Day 34: Hurricane
+
+Doctor		- Health: 4, Food: 15, Shelter: 7
+Farmer		- Health: 5, Food: 18, Shelter: 7
+Carpenter	- Health: 6, Food: 18, Shelter: 7
+Hunter		- Health: 6, Food: 18, Shelter: 7
+
+4 People survived.
+
+Day 35: Hurricane
+
+Doctor		- Health: 6, Food: 17, Shelter: 5
+Farmer		- Health: 7, Food: 17, Shelter: 5
+Carpenter	- Health: 8, Food: 17, Shelter: 5
+Hunter		- Health: 8, Food: 17, Shelter: 5
+
+4 People survived.
+
+Day 36: Wolves
+
+Doctor		- Health: 7, Food: 16, Shelter: 6
+Farmer		- Health: 7, Food: 16, Shelter: 6
+Carpenter	- Health: 7, Food: 16, Shelter: 6
+Hunter		- Health: 6, Food: 16, Shelter: 6
+
+4 People survived.
+
+Day 37: Disease
+
+Doctor		- Health: 4, Food: 15, Shelter: 7
+Farmer		- Health: 5, Food: 18, Shelter: 7
+Carpenter	- Health: 6, Food: 18, Shelter: 7
+Hunter		- Health: 6, Food: 18, Shelter: 7
+
+4 People survived.
+
+Day 38: No disaster
+
+Doctor		- Health: 6, Food: 17, Shelter: 8
+Farmer		- Health: 7, Food: 17, Shelter: 8
+Carpenter	- Health: 8, Food: 17, Shelter: 8
+Hunter		- Health: 8, Food: 17, Shelter: 8
+
+4 People survived.
+
+Day 39: No disaster
+
+Doctor		- Health: 8, Food: 16, Shelter: 9
+Farmer		- Health: 9, Food: 16, Shelter: 9
+Carpenter	- Health: 10, Food: 16, Shelter: 9
+Hunter		- Health: 10, Food: 16, Shelter: 9
+
+4 People survived.
+
+Day 40: Famine
+
+Doctor		- Health: 10, Food: 13, Shelter: 10
+Farmer		- Health: 10, Food: 16, Shelter: 10
+Carpenter	- Health: 10, Food: 16, Shelter: 10
+Hunter		- Health: 10, Food: 16, Shelter: 10
+
+4 People survived.
+
+Day 41: No disaster
+
+Doctor		- Health: 10, Food: 15, Shelter: 10
+Farmer		- Health: 10, Food: 15, Shelter: 10
+Carpenter	- Health: 10, Food: 15, Shelter: 10
+Hunter		- Health: 10, Food: 15, Shelter: 10
+
+4 People survived.
+
+Day 42: Wolves
+
+Doctor		- Health: 9, Food: 14, Shelter: 10
+Farmer		- Health: 9, Food: 14, Shelter: 10
+Carpenter	- Health: 9, Food: 14, Shelter: 10
+Hunter		- Health: 8, Food: 14, Shelter: 10
+
+4 People survived.
+
+Day 43: Hurricane
+
+Doctor		- Health: 8, Food: 13, Shelter: 7
+Farmer		- Health: 9, Food: 16, Shelter: 7
+Carpenter	- Health: 10, Food: 16, Shelter: 7
+Hunter		- Health: 10, Food: 18, Shelter: 7
+
+4 People survived.
+
+Day 44: No disaster
+
+Doctor		- Health: 10, Food: 17, Shelter: 8
+Farmer		- Health: 10, Food: 17, Shelter: 8
+Carpenter	- Health: 10, Food: 17, Shelter: 8
+Hunter		- Health: 10, Food: 17, Shelter: 8
+
+4 People survived.
+
+Day 45: Famine
+
+Doctor		- Health: 10, Food: 14, Shelter: 9
+Farmer		- Health: 10, Food: 14, Shelter: 9
+Carpenter	- Health: 10, Food: 14, Shelter: 9
+Hunter		- Health: 10, Food: 14, Shelter: 9
+
+4 People survived.
+
+Day 46: Hurricane
+
+Doctor		- Health: 10, Food: 13, Shelter: 7
+Farmer		- Health: 10, Food: 16, Shelter: 7
+Carpenter	- Health: 10, Food: 16, Shelter: 7
+Hunter		- Health: 10, Food: 16, Shelter: 7
+
+4 People survived.
+
+Day 47: Disease
+
+Doctor		- Health: 8, Food: 15, Shelter: 8
+Farmer		- Health: 8, Food: 15, Shelter: 8
+Carpenter	- Health: 8, Food: 15, Shelter: 8
+Hunter		- Health: 8, Food: 15, Shelter: 8
+
+4 People survived.
+
+Day 48: Hurricane
+
+Doctor		- Health: 10, Food: 14, Shelter: 6
+Farmer		- Health: 10, Food: 14, Shelter: 6
+Carpenter	- Health: 10, Food: 14, Shelter: 6
+Hunter		- Health: 10, Food: 14, Shelter: 6
+
+4 People survived.
+
+Day 49: Disease
+
+Doctor		- Health: 8, Food: 13, Shelter: 7
+Farmer		- Health: 8, Food: 16, Shelter: 7
+Carpenter	- Health: 8, Food: 16, Shelter: 7
+Hunter		- Health: 8, Food: 18, Shelter: 7
+
+4 People survived.
+
+Day 50: Famine
+
+Doctor		- Health: 10, Food: 15, Shelter: 8
+Farmer		- Health: 10, Food: 15, Shelter: 8
+Carpenter	- Health: 10, Food: 15, Shelter: 8
+Hunter		- Health: 10, Food: 15, Shelter: 8
+
+4 People survived.
+
+Day 51: Hurricane
+
+Doctor		- Health: 10, Food: 14, Shelter: 6
+Farmer		- Health: 10, Food: 14, Shelter: 6
+Carpenter	- Health: 10, Food: 14, Shelter: 6
+Hunter		- Health: 10, Food: 14, Shelter: 6
+
+4 People survived.
+
+Day 52: Famine
+
+Doctor		- Health: 10, Food: 11, Shelter: 7
+Farmer		- Health: 10, Food: 14, Shelter: 7
+Carpenter	- Health: 10, Food: 14, Shelter: 7
+Hunter		- Health: 10, Food: 14, Shelter: 7
+
+4 People survived.
+
+Day 53: Hurricane
+
+Doctor		- Health: 10, Food: 13, Shelter: 5
+Farmer		- Health: 10, Food: 13, Shelter: 5
+Carpenter	- Health: 10, Food: 13, Shelter: 5
+Hunter		- Health: 10, Food: 13, Shelter: 5
+
+4 People survived.
+
+Day 54: Famine
+
+Doctor		- Health: 10, Food: 10, Shelter: 6
+Farmer		- Health: 10, Food: 10, Shelter: 6
+Carpenter	- Health: 10, Food: 10, Shelter: 6
+Hunter		- Health: 10, Food: 10, Shelter: 6
+
+4 People survived.
+
+Day 55: Hurricane
+
+Doctor		- Health: 10, Food: 9, Shelter: 4
+Farmer		- Health: 10, Food: 12, Shelter: 4
+Carpenter	- Health: 10, Food: 12, Shelter: 4
+Hunter		- Health: 10, Food: 12, Shelter: 4
+
+4 People survived.
+
+Day 56: No disaster
+
+Doctor		- Health: 10, Food: 11, Shelter: 5
+Farmer		- Health: 10, Food: 11, Shelter: 5
+Carpenter	- Health: 10, Food: 11, Shelter: 5
+Hunter		- Health: 10, Food: 11, Shelter: 5
+
+4 People survived.
+
+Day 57: No disaster
+
+Doctor		- Health: 10, Food: 10, Shelter: 6
+Farmer		- Health: 10, Food: 10, Shelter: 6
+Carpenter	- Health: 10, Food: 10, Shelter: 6
+Hunter		- Health: 10, Food: 10, Shelter: 6
+
+4 People survived.
+
+Day 58: Wolves
+
+Doctor		- Health: 9, Food: 9, Shelter: 7
+Farmer		- Health: 9, Food: 12, Shelter: 7
+Carpenter	- Health: 9, Food: 12, Shelter: 7
+Hunter		- Health: 8, Food: 12, Shelter: 7
+
+4 People survived.
+
+Day 59: No disaster
+
+Doctor		- Health: 8, Food: 11, Shelter: 8
+Farmer		- Health: 9, Food: 11, Shelter: 8
+Carpenter	- Health: 10, Food: 11, Shelter: 8
+Hunter		- Health: 10, Food: 13, Shelter: 8
+
+4 People survived.
+
+Day 60: Hurricane
+
+Doctor		- Health: 10, Food: 12, Shelter: 6
+Farmer		- Health: 10, Food: 12, Shelter: 6
+Carpenter	- Health: 10, Food: 12, Shelter: 6
+Hunter		- Health: 10, Food: 12, Shelter: 6
+
+4 People survived.
+
+Day 61: Famine
+
+Doctor		- Health: 10, Food: 9, Shelter: 7
+Farmer		- Health: 10, Food: 12, Shelter: 7
+Carpenter	- Health: 10, Food: 12, Shelter: 7
+Hunter		- Health: 10, Food: 12, Shelter: 7
+
+4 People survived.
+
+Day 62: Hurricane
+
+Doctor		- Health: 10, Food: 11, Shelter: 5
+Farmer		- Health: 10, Food: 11, Shelter: 5
+Carpenter	- Health: 10, Food: 11, Shelter: 5
+Hunter		- Health: 10, Food: 11, Shelter: 5
+
+4 People survived.
+
+Day 63: Famine
+
+Doctor		- Health: 10, Food: 8, Shelter: 6
+Farmer		- Health: 10, Food: 8, Shelter: 6
+Carpenter	- Health: 10, Food: 8, Shelter: 6
+Hunter		- Health: 10, Food: 8, Shelter: 6
+
+4 People survived.
+
+Day 64: Wolves
+
+Doctor		- Health: 9, Food: 7, Shelter: 7
+Farmer		- Health: 9, Food: 10, Shelter: 7
+Carpenter	- Health: 9, Food: 10, Shelter: 7
+Hunter		- Health: 8, Food: 10, Shelter: 7
+
+4 People survived.
+
+Day 65: Hurricane
+
+Doctor		- Health: 8, Food: 9, Shelter: 5
+Farmer		- Health: 9, Food: 9, Shelter: 5
+Carpenter	- Health: 10, Food: 9, Shelter: 5
+Hunter		- Health: 10, Food: 9, Shelter: 5
+
+4 People survived.
+
+Day 66: Disease
+
+Doctor		- Health: 8, Food: 8, Shelter: 6
+Farmer		- Health: 8, Food: 8, Shelter: 6
+Carpenter	- Health: 8, Food: 8, Shelter: 6
+Hunter		- Health: 8, Food: 10, Shelter: 6
+
+4 People survived.
+
+Day 67: Famine
+
+Doctor		- Health: 10, Food: 7, Shelter: 7
+Farmer		- Health: 10, Food: 10, Shelter: 7
+Carpenter	- Health: 10, Food: 10, Shelter: 7
+Hunter		- Health: 10, Food: 10, Shelter: 7
+
+4 People survived.
+
+Day 68: Famine
+
+Doctor		- Health: 10, Food: 7, Shelter: 8
+Farmer		- Health: 10, Food: 7, Shelter: 8
+Carpenter	- Health: 10, Food: 7, Shelter: 8
+Hunter		- Health: 10, Food: 7, Shelter: 8
+
+4 People survived.
+
+Day 69: Famine
+
+Doctor		- Health: 10, Food: 4, Shelter: 9
+Farmer		- Health: 10, Food: 4, Shelter: 9
+Carpenter	- Health: 10, Food: 4, Shelter: 9
+Hunter		- Health: 10, Food: 4, Shelter: 9
+
+4 People survived.
+
+Day 70: Famine
+
+Doctor		- Health: 10, Food: 1, Shelter: 10
+Farmer		- Health: 10, Food: 4, Shelter: 10
+Carpenter	- Health: 10, Food: 4, Shelter: 10
+Hunter		- Health: 10, Food: 4, Shelter: 10
+
+4 People survived.
+
+Day 71: Disease
+
+Doctor		- Health: 8, Food: 3, Shelter: 10
+Farmer		- Health: 8, Food: 3, Shelter: 10
+Carpenter	- Health: 8, Food: 3, Shelter: 10
+Hunter		- Health: 8, Food: 3, Shelter: 10
+
+4 People survived.
+
+Day 72: No disaster
+
+Doctor		- Health: 10, Food: 2, Shelter: 10
+Farmer		- Health: 10, Food: 2, Shelter: 10
+Carpenter	- Health: 10, Food: 2, Shelter: 10
+Hunter		- Health: 10, Food: 2, Shelter: 10
+
+4 People survived.
+
+Day 73: Famine
+
+Doctor		- Health: 10, Food: 0, Shelter: 10
+Doctor has died...
+Farmer		- Health: 10, Food: 2, Shelter: 10
+Carpenter	- Health: 10, Food: 2, Shelter: 10
+Hunter		- Health: 10, Food: 2, Shelter: 10
+
+3 People survived.
+
+Day 74: Wolves
+
+Farmer		- Health: 9, Food: 1, Shelter: 10
+Carpenter	- Health: 8, Food: 1, Shelter: 10
+Hunter		- Health: 7, Food: 1, Shelter: 10
+
+3 People survived.
+
+Day 75: Hurricane
+
+Farmer		- Health: 7, Food: 0, Shelter: 7
+Farmer has died...
+Carpenter	- Health: 7, Food: 1, Shelter: 7
+Hunter		- Health: 7, Food: 0, Shelter: 7
+Hunter has died...
+
+1 People survived.
+
+Day 76: Hurricane
+
+Carpenter	- Health: 7, Food: 1, Shelter: 4
+
+1 People survived.
+
+Day 77: Disease
+
+Carpenter	- Health: 5, Food: 1, Shelter: 4
+
+1 People survived.
+
+Day 78: Wolves
+
+Carpenter	- Health: 2, Food: 1, Shelter: 4
+
+1 People survived.
+
+Day 79: Famine
+
+Carpenter	- Health: 2, Food: 0, Shelter: 4
+Carpenter has died...
+
+
+Everyone has died...
+
+The population survived for 78 days.
+
